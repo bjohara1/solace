@@ -1,0 +1,18 @@
+{
+  "name": "@solace/client-sdk",
+  "version": "1.0.0",
+  "description": "Cross-platform client SDK for secure blob encryption and VAD-based audio capture",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "echo 'Build placeholder'",
+    "test": "echo 'Tests placeholder'",
+    "demo": "cd demo && npm start"
+  },
+  "dependencies": {
+    "webrtcvad": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "typescript": "^5.0.0"
+  }
+}
